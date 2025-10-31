@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 test.c
 *.exe
+=======
+*.exe
+test.c
+Untitled1.c
+*.json
+>>>>>>> 5edaae8f23d8f818c76b2b86b9e41b5a31218596
