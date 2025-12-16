@@ -1,9 +1,10 @@
-<<<<<<< HEAD
-test.c
-*.exe
-=======
 *.exe
 test.c
 Untitled1.c
 *.json
->>>>>>> 5edaae8f23d8f818c76b2b86b9e41b5a31218596
+output
+IT3230-C Basic/test2.c
+.gitignore
+IT3230-C Basic/polynomial.c
+IT3230-C Basic/parenthesisMatch.c
+.vscode/tasks.json
